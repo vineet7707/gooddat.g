@@ -1,0 +1,1 @@
+# gooddat.g
